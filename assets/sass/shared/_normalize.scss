@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: gainsboro;
+}
+@font-face {
+    font-family: sans;
+    src: url(../fonts/sans.woff2);
+}
+* {
+    font-family: sans;
+}
+a {
+    text-decoration: none;
+}
